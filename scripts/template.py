@@ -40,7 +40,8 @@ class Day{day}(input: {inputType}) {{
     fun solvePart2(): Int {{
         return 0
     }}
-}}'''
+}}
+'''
 f.write(fileContent)
 
 # Create a DayXXTest class
@@ -92,7 +93,8 @@ class Day{day}Test {{
             assertEquals(1, answer)
         }}
     }}
-}}'''
+}}
+'''
 f.write(fileContent)
 
 # Create a dayXX.txt file for the puzzle input and download it from the website
